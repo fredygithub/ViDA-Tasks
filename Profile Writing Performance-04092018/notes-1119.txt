@@ -1,0 +1,2 @@
+- check Allison Seib with client Aakash Sareen and notes on client Tom Melcher
+- add isCreation to denserank

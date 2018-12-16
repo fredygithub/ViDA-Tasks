@@ -1,0 +1,9 @@
+
+1- Open "Margins" Job properties under vida.is-a-geek.com Database server
+2- Go to steps page
+3- Go to "Script" step name and click view
+4- Replace command with the code in Margins-Job-payroll_client.sql
+5- Click ok.
+6- Re run job "Margins" so information under payroll_client is accurate.
+
+Note: there  is a backup folder with original script version of "Margins" job

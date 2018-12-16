@@ -1,0 +1,8 @@
+Closer report
+=============
+1. Client field in CRM
+2. What when client change in some of the questions?
+3. SP
+
+
+======
